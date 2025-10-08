@@ -1,6 +1,6 @@
-# 🌐 DevNotesVault
+# 🌐 NoteStash
 
-Welcome to **DevNotesVault** — your all-in-one stash of development notes, quick references, and code snippets 🧠✨  
+Welcome to **NoteStash** — your all-in-one stash of development notes, quick references, and code snippets 🧠✨  
 Whether you're brushing up on **HTML & CSS**, diving into **Python**, or exploring **Flask**, this repo keeps everything neat, organized, and ready when you need it.
 
 ---
